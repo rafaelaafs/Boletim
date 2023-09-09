@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Montserrat:wght@600;900&display=swap');
+
+* {
+    text-transform: uppercase;
+    font-family: Montserrat;
+}
+
+.titulo {
+    color: #009FCD;
+    text-align: center;
+}
+
+.boletim {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.quadro {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.data {
+    font-size: 20px;
+}
+
+.panfleto {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.bloco1 {
+    background-color: #FFB200;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+}
+
+.quebra {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 10px;   
+    line-height: 0.1;
+    margin-left: 20px;
+}
+
+.number {
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.bloco2 {
+    background-color: #009FCD;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+}
+
+.bloco3 {
+    background-color: #009FCD;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+}
+
+.bloco4 {
+    background-color: #00D08E;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+}
+
+.bloco5 {
+    background-color: #6B2EAF;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+}
+
+.bloco6 {
+    background-color: #e66500;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+
+}
+
+.bloco7 {
+    background-color: #f0944b;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+}
+
+.bloco8 {
+    background-color: #fe0000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    width: 500px;
+    margin-left: 390px;
+    align-items: center;
+}
+
+h3 {
+    color: #009FCD;
+    font-size: small;
+    text-transform: initial ;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 270px;
+    align-items: center;
+}
+
+.informacoes {
+    margin-left: 100px;
+    text-align: center;
+
+}
+
+.logo {
+    margin-right: 220px;
+}
